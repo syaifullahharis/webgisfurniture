@@ -1,0 +1,404 @@
+body{
+	background: #fafcfe;
+}
+
+.large{
+	font-size: 2em;
+}
+
+a, a:link, a:hover{
+	text-decoration: none;
+}
+
+/*navabar */
+.navbar-inverse{
+	background: #25ad7d;
+	border: none;
+}
+
+.navbar-header .navbar-brand{
+	color: #fff;
+}
+
+.navbar-inverse span {
+	color: #35f3a3;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color: #fff;
+}
+
+.navbar-inverse .navbar-nav li a:hover{
+	background-color: #3aa276;
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color: #fff;
+}
+
+/*panel whidget*/
+.panel-blue .widget-left{
+	background: #30a5ff;
+	color: #fff;
+}
+
+.panel-orange .widget-left{
+	background: #ffb53e;
+	color: #fff;
+}
+
+.panel-teal .widget-left{
+	background: #1ebfae;
+	color: #fff;
+}
+
+.widget-left{
+	height: 80px;
+	padding-top: 15px;
+	text-align: center;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+.container{
+	float: none;
+}
+
+.padding: {
+	padding: 5px;
+}
+
+.margin-top{
+	margin-top: 55px;
+}
+
+.margin-data{
+	margin:10px;
+}
+
+.detail{
+	width: 100%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.maps{
+	width: 100%;
+	height: 440px;
+	border: 1px dotted gray;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.item{
+	width: 100%;
+	padding: 3px;
+}
+
+.bg-blue-dr{
+	background-color: #108787;
+	color: #fff;
+}
+
+.bg-cyan{
+	background-color: #10ffff;
+	color: #fff;
+}
+
+.bg-cyan-flat{
+	background-color: #43b0cb;
+	color: #fff;
+}
+
+.bg-violet{
+	background-color: #37ff87;
+	color: #fff;
+}
+
+.bg-yellow{
+	background-color: #ffff10;
+	color: #fff;
+}
+
+.bg-pink{
+	background-color: #ff5fdf;
+	color: #fff;
+}
+
+.bg-yellow-flat{
+	background-color: #ffce10;
+	color: #fff;
+}
+
+.bg-gr-dark{
+	background-color: #878710;
+	color: #fff;
+}
+
+.bg-brow{
+	background-color: #871010;
+	color: #fff;
+}
+
+.bg-green{
+	background-color: #10ff10;
+	color: #fff;
+}
+
+.bg-green-dr{
+	background-color: #108710;
+	color: #fff;
+}
+
+.bg-green-flat{
+	background-color: #4FAF10;
+	color: #fff;
+}
+
+.bg-red{
+	background-color: #ff1010;
+	color: #fff;
+}
+
+.bg-red-br{
+	background-color: #d6105f;
+	color: #fff;
+}
+
+.bg-blue{
+	background-color: #1010ff;
+	color: #fff;
+}
+
+.bg-blue-dark{
+	background-color: #101087;
+	color: #fff;
+}
+
+.bg-blue-flat{
+	background-color: #5f5fff;
+	color: #fff;
+}
+
+.bg-purple{
+	background-color: #871087;
+	color: #fff;
+}
+
+.bg-purple-flat{
+	background-color: #bf69d6;
+	color: #fff;
+}
+
+.bg-orange{
+	background-color: #ff8737;
+	color: #fff;
+}
+
+.bg-orange-flat{
+	background-color: #ff9f5f;
+	color: #fff;
+}
+
+.bg-pinka{
+	background-color: #FFD7D7;
+	color: #fff;
+}
+
+/* posisi map desa */
+.maps-desa .baddurih{
+	position: absolute;
+	width: 65.5px;
+	margin-top: 264px;
+	margin-left: 236px
+}
+
+.maps-desa .barurambat-timur{
+	position: absolute;
+	width: 51px;
+	margin-top: 103px;
+	margin-left: 273px;
+}
+
+.maps-desa .buddagan{
+	position: absolute;
+	width: 54px;
+	margin-top: 73px;
+	margin-left: 311px;
+}
+
+
+.maps-desa .bunder{
+	position: absolute;
+	width: 104px;
+	margin-top: 153px;
+	margin-left: 393.5px;
+}
+
+.maps-desa .durbuk{
+	position: absolute;
+	width: 63px;
+	margin-top: 194px;
+	margin-left: 311px;
+}
+
+.maps-desa .jarin{
+	position: absolute;
+	width: 74.5px;
+	margin-top: 248px;
+	margin-left: 285px
+}
+
+.maps-desa .lawangan-daya{
+	position: absolute;
+	width: 58px;
+	margin-top: 64px;
+	margin-left: 283px;
+}
+
+.maps-desa .lemper{
+	position: absolute;
+	width: 39px;
+	margin-top: 133px;
+	margin-left: 294px;
+}
+
+.maps-desa .majungan{
+	position: absolute;
+	width: 52.5px;
+	margin-top: 274px;
+	margin-left: 355px;
+}
+
+.maps-desa .murtajih{
+	position: absolute;
+	width: 79px;
+	margin-top: 114px;
+	margin-left: 329px;
+}
+
+.maps-desa .dasok{
+	position: absolute;
+	width: 88px;
+	margin-top: 101px;
+	margin-left: 358px; 
+}
+
+.maps-desa .pademawu-barat{
+	position: absolute;
+	width: 82px;
+	margin-top: 149px;
+	margin-left: 348px;
+}
+
+.maps-desa .pademawu-timur{
+	position: absolute;
+	width: 153px;
+	margin-top: 202px;
+	margin-left: 370px;
+}
+
+.maps-desa .padelegan{
+	position: absolute;
+	width: 61px;
+	margin-top: 299px;
+	margin-left: 389px;
+}
+
+.maps-desa .prekbun{
+	position: absolute;
+	width: 29px;
+	margin-top: 213px;
+	margin-left: 300px;
+}
+
+.maps-desa .pagagan{
+	position: absolute;
+	width: 64px;
+	margin-top: 308px;
+	margin-left: 299px;
+}
+
+.maps-desa .sentol{
+	position: absolute;
+	width: 63px;
+	margin-top: 19px;
+	margin-left: 313px;
+}
+
+.maps-desa .sumedangan{
+	position: absolute;
+	width: 55px;
+	margin-top: 163px;
+	margin-left: 308px;
+}
+
+.maps-desa .sopaah{
+	position: absolute;
+	width: 40px;
+	margin-top: 208.5px;
+	margin-left: 269.5px;
+}
+
+.maps-desa .buddih{
+	position: absolute;
+	width: 46px;
+	margin-top: 196px;
+	margin-left: 257px
+}
+
+.maps-desa .tambung{
+	position: absolute;
+	width: 57px;
+	margin-top: 57px;
+	margin-left: 346px;
+}
+
+.maps-desa .tanjung{
+	position: absolute;
+	width: 106px;
+	margin-top: 259px;
+	margin-left: 408px;
+}
+
+.maps .pademawu{
+	margin-left: 220px;
+}
+
+.maps .keterangan{
+	width: 200px;
+	border: 1px dotted gray;
+}
+
+.lokasi{
+	height: 350px;
+}
+
+.ket-kiri{
+	position: absolute;
+}
+
+.thumbnail{
+	width: 220px;
+	margin: auto;
+}
+
+.thumbnail h6{
+	text-align: center;
+}
+
+.panel-margin-top{
+	margin-top: 5px;
+}
+
+.list-group a li{
+	margin-top: 3px;
+}
+
+.list-group a li:hover{
+	background: #fff;
+}
+
+.panel-footer{
+	text-align: center;
+}
